@@ -1,4 +1,4 @@
-type_pre,type_post,nt_type_banc,syn_count
+Source,Target,nt_type_banc,Weight
 B1-5,WED_pr02,Ach,6157
 B1-3,WED_pr02,Ach,5439
 JO-A,A2,Ach,4577

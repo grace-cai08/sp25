@@ -102,7 +102,7 @@ AVLP_pr01-1,A2,GABA,0.5,339
 vpoIN-1,pMN2,GABA,0.5,337
 AVLP_pr36/asp10a-1,pC2lb,Ach,0.5,336
 WV-WV-3,B1-4,GABA,0.5,330
-vpoEN,pMN1,Ach,0.5,324
+vpoEN,pMN1,Ach,2.0,324
 pC2lb,pMN1,Ach,0.5,322
 JO-A,JO-A,Ach,0.5,319
 B1-u,WED_pr02,Ach,0.5,319
@@ -145,7 +145,7 @@ JO-A,B1-u,Ach,0.5,216
 aPN3,aPN2,GLUT,0.5,211
 aPN3,IPS_pr02,GLUT,0.5,208
 vpoIN-1,pC1e,GABA,0.5,206
-vpoEN,pMN2,Ach,0.5,204
+vpoEN,pMN2,Ach,2.0,204
 AVLP_pr36/asp10a-1,pMN1,Ach,0.5,201
 pC2la,pC1d,Ach,0.5,201
 AVLP_pr36/asp10a-1,pC2la,Ach,0.5,196

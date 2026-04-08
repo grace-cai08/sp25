@@ -1,4 +1,4 @@
-type,nt_type_banc,preference,layer[z]
+Id,nt_type_banc,preference,layer[z]
 A1,inconclusive,none,3.896367521
 A2,Ach,pulse,2.304487179
 AVLP/PVLP_pr01-1,Ach,none,6.126602564
@@ -62,10 +62,10 @@ pC2la,Ach,none,5.722467058
 pC2lb,Ach,none,4.946714744
 pC2lc,Ach,none,5.55849359
 pC2ld,Ach,none,5.91025641
-pMN1,Ach,none,5.233974359
-pMN2,Ach,none,5.352564103
+pMN1,Ach,pulse,5.233974359
+pMN2,Ach,pulse,5.352564103
 pcC2lc,Ach,none,
-vpoEN,Ach,none,3.688301282
+vpoEN,Ach,pulse,3.688301282
 vpoIN-1,GABA,none,5.360897436
 vpoIN-2,GABA,none,5.345619658
 vpoIN-3,GABA,none,3.921474359
